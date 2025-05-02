@@ -1,0 +1,16 @@
+# mac
+.DS_Store
+
+# IDEs
+.vscode 
+*.env
+
+# Go
+vendor
+bin
+dist
+
+# tests
+.coverage
+
+.ignore*
